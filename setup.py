@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="terminator_pkg", 
-    version="0.0.1",
+    version="0.1",
     author="Tharun Peddisetty",
     author_email="tharunpeddisetty5@gmail.com",
     description="This package implements multiple linear and logistic regressions",
