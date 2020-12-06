@@ -18,6 +18,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/tharunpeddisetty/Terminator",
+    download_url="https://github.com/tharunpeddisetty/Terminator/archive/v_01.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
