@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="terminator-pkg-tharunpeddisetty5", # Replace with your own username
+    name="terminator_pkg", 
     version="0.0.1",
     author="Tharun Peddisetty",
     author_email="tharunpeddisetty5@gmail.com",
